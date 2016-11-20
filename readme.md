@@ -1,9 +1,2 @@
-exercise 14.02 有着联合编译的错误，后期需要完善
-exercise 15.35 编译错误，15.35-15.42全部没有仔细完成一遍
-exercise 16.22 暂时跳过
-exercise 16.28~16.31 暂时跳过
-
-
-
-
-
+The answers for c++ primer 5.
+wish it can help you.
